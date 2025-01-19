@@ -1,2 +1,1 @@
-# resource-allocation-Tmax
-Estratégias e Análises para Alocação Eficiente de Recursos em Smart Cities com Edge e Cloud Computing
+Neste repositório contem o código para replicar a simulação do artigo, Estratégias e Análises para Alocação Eficiente de Recursos em Smart Cities com Edge e Cloud Computing, ...
